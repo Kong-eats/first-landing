@@ -82,6 +82,34 @@ body {
 }
 /* end section */
 
+@media screen and (max-width: 1200px) {
+    #section-c div {
+        display: block;
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width: 992px) {
+    #section-c div {
+        display: block;
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width: 768px) {
+    #section-c div {
+        display: block;
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width: 567px) {
+    #section-c div {
+        display: block;
+        width: 100%;
+    }    
+}
+
 
 
 
